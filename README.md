@@ -89,15 +89,6 @@ Hệ thống **đã bị xâm nhập** — mức độ **Critical**. Chuỗi Exe
 
 ---
 
-## Một số hình ảnh
-
-> Đặt screenshot vào thư mục `images/` rồi cập nhật đường dẫn bên dưới.
-
-| | |
-|---|---|
-| ![Hayabusa high alerts](images/hayabusa_high_alerts.png) | ![Registry Explorer persistence](images/registry_explorer_runkey.png) |
-| *20 alert High tập trung tại PC-MINHLNC* | *Run Key xác nhận persistence* |
-
 ## Báo cáo đầy đủ
 
 Chi tiết từng bước, đầy đủ screenshot và phân tích: 📄 **[BaoCaoThucTap_DFIR.pdf](./BaoCaoThucTap_DFIR.pdf)**
