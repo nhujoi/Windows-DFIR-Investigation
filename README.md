@@ -100,7 +100,7 @@ Hệ thống **đã bị xâm nhập** — mức độ **Critical**. Chuỗi Exe
 
 ## Báo cáo đầy đủ
 
-Chi tiết từng bước, đầy đủ screenshot và phân tích: 📄 **[BaoCao_DFIR.pdf](./BaoCao_DFIR.pdf)**
+Chi tiết từng bước, đầy đủ screenshot và phân tích: 📄 **[BaoCaoThucTap_DFIR.pdf](./BaoCaoThucTap_DFIR.pdf)**
 
 ---
 
