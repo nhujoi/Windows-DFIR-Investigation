@@ -74,7 +74,7 @@ Alert Triage  →  Anchor Event  →  Pivot
 | Thời gian (UTC+7) | Sự kiện | MITRE |
 |---|---|---|
 | 14:32 | Thực thi PowerShell bất thường | T1059.003 |
-| 14:35 | Trinh sát tài khoản (`net user`, `hostname`) | T1087.001, T1082 |
+| 14:35 | Trinh sát tài khoản (`net user`, `hostname`) | T1087.001 |
 | 14:48 | Dump bộ nhớ `lsass.exe` (**anchor**) | T1003.001 |
 | 14:53 | Ghi Run Key để duy trì truy cập | T1547.001 |
 
