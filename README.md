@@ -1,6 +1,6 @@
 # Windows DFIR — Mô phỏng tấn công, Thu thập chứng cứ & Phân tích Timeline
 
-> Một bài lab DFIR **end-to-end** trên Windows: mô phỏng chuỗi tấn công theo MITRE ATT&CK bằng Atomic Red Team → thu thập chứng cứ forensic bằng CDIR-Collector → điều tra "mù" bằng Hayabusa theo hướng **Alert Triage → Anchor Event → Pivot** → kết thúc bằng một báo cáo DFIR hoàn chỉnh.
+> Một bài lab DFIR **end-to-end** trên Windows: mô phỏng chuỗi tấn công theo MITRE ATT&CK bằng Atomic Red Team → thu thập chứng cứ forensic bằng CDIR-Collector → điều tra "mù" bằng Hayabusa với một báo cáo DFIR hoàn chỉnh.
 
 **Tools:** Atomic Red Team · CDIR-Collector · Hayabusa · takajo · Registry Explorer (Eric Zimmerman) · Sysmon · ProcDump
 
